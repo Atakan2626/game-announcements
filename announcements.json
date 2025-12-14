@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "2025-12-14-winter",
+      "title": "Kış Etkinliği!",
+      "body": "Yeni görevler ve ödüller eklendi.",
+      "imageUrl": "REPLACE_ME",
+      "enabled": true
+    }
+  ]
+}
